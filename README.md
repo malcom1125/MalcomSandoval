@@ -48,15 +48,6 @@
 
 ---
 
-## 📊 **Estadísticas de GitHub**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malcomsandoval&show_icons=true&theme=midnight-purple" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malcomsandoval&layout=compact&theme=midnight-purple" width="375"/>
-</div>
-
----
-
 ## 🤝 **Conectemos**
 
 <div align='left'>
